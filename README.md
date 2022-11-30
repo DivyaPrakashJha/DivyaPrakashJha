@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Divya Prakash</h1>
-<h3 align="center">A passionate Competitive Programmer from India.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=25&pause=500&width=435&lines=I'm+a+Competitive+Programmer.;An+Open+Source+Enthusiast." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaprakashjha&label=Profile%20views&color=0e75b6&style=flat" alt="divyaprakashjha" /> </p>
 
 <img align = "right" alt = "Coding" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--R5KgC1bh--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/oi2rwsde00xo9ou6jwsl.gif">
 
-- 🌱 I’m currently starting with **Web Development.**
+- 🌱 I’m currently learning **Web Technologies.**
 
-- 📫 How to reach me **prakashdivya.dpj@gmail.com**
+- 📫 Mail me at **prakashdivya.dpj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -32,9 +32,9 @@
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyaprakashjha&show_icons=true&locale=en&layout=compact" alt="divyaprakashjha" /></p>
+<p><img align="center" width="480" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyaprakashjha&show_icons=true&locale=en&layout=compact" alt="divyaprakashjha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyaprakashjha&show_icons=true&locale=en" alt="divyaprakashjha" /></p>
+<p><img align="center" width="480" src="https://github-readme-stats.vercel.app/api?username=divyaprakashjha&show_icons=true&locale=en" alt="divyaprakashjha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyaprakashjha&" alt="divyaprakashjha" /></p>
+<p><img align="center" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=divyaprakashjha&" alt="divyaprakashjha" /></p>
 
