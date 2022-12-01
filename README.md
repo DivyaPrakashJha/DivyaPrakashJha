@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Prakash</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=25&pause=500&width=435&lines=I'm+a+Competitive+Programmer.;An+Open+Source+Enthusiast." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=25&pause=500&width=500&lines=I'm+a+Competitive+Programmer.;Like+Contributing+to+Open+Source." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaprakashjha&label=Profile%20views&color=0e75b6&style=flat" alt="divyaprakashjha" /> </p>
 
