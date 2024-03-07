@@ -2,11 +2,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Divya+Prakash+Jha!;" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyaprakashjha&label=Profile%20views&color=0e75b6&style=flat" alt="divyaprakashjha" /> </p>
+<hr>
+    <div align = "center">
+        <img src = "/code.gif" width = "600px" height = "300px" alt="Code">
+    </div>
+<hr>
 
-- 🌱 I’m currently learning **Web Technologies.**
-
-- 📫 Mail me at **prakashdivya.dpj@gmail.com**
+<h2 align = "center">🧑‍🦰 About Me 🧑‍🦰</h2>
+<br>
+<div align = "center">
+    <p align="right"> <img src="https://komarev.com/ghpvc/?username=divyaprakashjha&label=Profile%20views&color=0e75b6&style=flat" alt="divyaprakashjha" /> </p>
+    <ul type = "none">
+        <li>😎 I'm a pre-final year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
+        <li>🌱 I’m currently learning Web Technologies.</li>
+        <li>📫 Mail me at <i><b>prakashdivya.dpj@gmail.com</b></i></li>
+    </ul>
+</div>
+<br>
 
 <hr>
 
