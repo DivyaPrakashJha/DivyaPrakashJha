@@ -26,7 +26,7 @@
 <br>
 <div align="center">
     <a href="https://www.hackerrank.com/_dips_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_dips_" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/prakash_divya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prakash_divya" height="30" width="40" /></a>
+    <a href="https://codeforces.com/profile/_NullPointer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_NullPointer_" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/prakash_divya" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="prakash_divya" height="30" width="40" /></a>
     <a href="https://leetcode.com/prakash_divya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakash_divya" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/prakash_divya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakash_divya" height="30" width="40" /></a>
