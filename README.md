@@ -13,8 +13,8 @@
 <div align = "center">
     <p align="right"> <img src="https://komarev.com/ghpvc/?username=divyaprakashjha&label=Profile%20views&color=0e75b6&style=flat" alt="divyaprakashjha" /> </p>
     <ul type = "none">
-        <li>😎 I'm a pre-final year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
-        <li>🌱 I’m currently learning Web Technologies.</li>
+        <li>😎 I'm a final year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
+        <li>🌱 I love to apply my technical skills to develop innovative solutions for real-world problems.</li>
         <li>📫 Mail me at <i><b>prakashdivya.dpj@gmail.com</b></i></li>
     </ul>
 </div>
@@ -42,11 +42,11 @@
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,golang,html" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,golang" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,react,bootstrap,css" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,react" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,linux,postman" />
     <br>
 </div>
 <br>
