@@ -6,35 +6,6 @@
     <div align = "center">
         <img src = "/code.gif" width = "600px" height = "300px" alt="Code">
     </div>
-<hr>
-
-<h2 align = "center">🧑‍🦰 About Me 🧑‍🦰</h2>
-<br>
-<div align = "center">
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=divyaprakashjha&label=Profile%20views&color=0e75b6&style=flat" alt="divyaprakashjha" /> </p>
-    <ul type = "none">
-        <li>😎 I'm a final year student pursuing <b>Bachelor of Engineering</b> in <b>Information Technology</b>.</li>
-        <li>🌱 I love to apply my technical skills to develop innovative solutions for real-world problems.</li>
-        <li>📫 Mail me at <i><b>prakashdivya.dpj@gmail.com</b></i></li>
-    </ul>
-</div>
-<br>
-
-<hr>
-
-<h2 align="center">📫 Connect With Me 📫</h2>
-<br>
-<div align="center">
-    <a href="https://www.hackerrank.com/_dips_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_dips_" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/_NullPointer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_NullPointer_" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/prakash_divya" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="prakash_divya" height="30" width="40" /></a>
-    <a href="https://leetcode.com/prakash_divya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakash_divya" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/prakash_divya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakash_divya" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/im-divyaprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im-divyaprakash" height="30" width="40" /></a>
-    
-
-</div>
-<br>
 
 <hr>
  
